@@ -1,0 +1,5 @@
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\bin\Release\Dominio.dll
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\bin\Release\Dominio.pdb
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Release\Dominio.dll
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Release\Dominio.pdb

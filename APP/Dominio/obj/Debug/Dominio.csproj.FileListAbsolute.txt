@@ -20,3 +20,9 @@ C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - cop
 C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
 C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.dll
 C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.pdb
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\bin\Debug\Dominio.dll
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\bin\Debug\Dominio.pdb
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Debug\Dominio.dll
+C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Dominio\obj\Debug\Dominio.pdb

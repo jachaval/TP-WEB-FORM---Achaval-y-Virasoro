@@ -24,7 +24,7 @@ namespace Negocio
             try
             {
                 //inner entre 2 tablas articulos y marcas
-                datos.setearConsulta("select A.Id, A.Codigo CodigoArticulo , A.Nombre , A.Descripcion Descripcion  , A.ImagenUrl UrlImagen, M.Descripcion Marca, A.IdMarca, A.IdCategoria from ARTICULOS A ,MARCAS M  WHERE A.IdMarca = M.Id ");
+                datos.setearConsulta("select A.Id, A.Codigo CodigoArticulo , A.Nombre , A.Descripcion Descripcion  , A.ImagenUrl UrlImagen, M.Descripcion Marca, A.IdMarca, A.Precio, A.IdCategoria from ARTICULOS A ,MARCAS M  WHERE A.IdMarca = M.Id ");
                 datos.ejecutarLectura();
 
                 while (datos.Lector.Read())
@@ -37,6 +37,7 @@ namespace Negocio
                     aux.UrlImagen = (string)datos.Lector["UrlImagen"];
                     aux.marca = new Marca((string)datos.Lector["Marca"]);
                     aux.marca.Id = (int)datos.Lector["IdMarca"];
+                    aux.Precio = (decimal)datos.Lector["Precio"];
 
                     lista.Add(aux);
                 }
