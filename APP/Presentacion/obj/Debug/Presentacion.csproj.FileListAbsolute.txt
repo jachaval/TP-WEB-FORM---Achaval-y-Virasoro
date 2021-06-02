@@ -1,0 +1,78 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Presentacion\obj\Debug\Presentacion.pdb

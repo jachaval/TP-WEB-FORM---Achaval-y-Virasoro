@@ -1,0 +1,41 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\obj\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\obj\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\obj\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS\APP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\obj\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Negocio\obj\Debug\Negocio.pdb

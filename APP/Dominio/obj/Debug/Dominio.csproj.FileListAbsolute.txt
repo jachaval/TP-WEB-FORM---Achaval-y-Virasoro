@@ -1,0 +1,22 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\TP WinForm-Grupo Y\Tp1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\obj\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\VS Proyectos\Proyecto TP WinForm\Grupo-Y-Programacion3\Tp1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP WEB FORMS - copia\APP\Dominio\obj\Debug\Dominio.pdb
