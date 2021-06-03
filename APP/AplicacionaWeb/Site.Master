@@ -12,8 +12,10 @@
     <asp:PlaceHolder runat="server">
         <%: Scripts.Render("~/bundles/modernizr") %>
     </asp:PlaceHolder>
-
+    <script src="funciones.js"></script>
+    <link href="estilos.css" rel="stylesheet">
     <link href="~/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+    <script crossorigin="anonymous" src="https://kit.fontawesome.com/5c12e64731.js"></script>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-+0n0xVW2eSR5OomGNYDnhzAbDsOXxcvSN1TPprVMTNDbiYZCxYbOOl7+AMvyTG2x" crossorigin="anonymous">
 </head>
 <body>
