@@ -24,5 +24,14 @@ namespace AplicacionaWeb
                 Response.Redirect("Error.aspx");
             }
         }
+    //    public static List<Articulo> listacarrito;
+    //    protected void btnAgregar_Click(object sender, EventArgs e)
+    //    {
+    //        try
+    //        {
+    //            listacarrito.Add(seleccionado);
+    //            Session.Add("listacarrito");
+    //        }
+    //}
     }
 }
