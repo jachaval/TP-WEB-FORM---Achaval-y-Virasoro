@@ -12,6 +12,7 @@ namespace AplicacionaWeb
     public partial class _Default : Page
     {
         public List<Articulo> lista;
+        public List<Articulo> listaseleccionado;
         protected void Page_Load(object sender, EventArgs e)
         {
             ArticuloNegocio negocio = new ArticuloNegocio();
@@ -24,14 +25,19 @@ namespace AplicacionaWeb
                 Response.Redirect("Error.aspx");
             }
         }
-    //    public static List<Articulo> listacarrito;
-    //    protected void btnAgregar_Click(object sender, EventArgs e)
-    //    {
-    //        try
-    //        {
-    //            listacarrito.Add(seleccionado);
-    //            Session.Add("listacarrito");
-    //        }
-    //}
+        private void Agregar(object sender, EventArgs e)
+        {
+            try
+            {
+                string id = Request.QueryString["id"];
+                Articulo seleccionado = lista.Find(x => x.CodigoArticulo == id);
+                listaseleccionado.Add(seleccionado);
+                Session.Add("listacarrito", listaseleccionado);
+            }
+            catch (Exception ex)
+            {
+                Response.Redirect("Error.aspx");
+            }
+            }
     }
 }

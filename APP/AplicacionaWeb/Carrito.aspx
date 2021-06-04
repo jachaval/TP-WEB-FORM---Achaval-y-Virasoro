@@ -2,5 +2,9 @@
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
 <h2>Carrito de Compras</h2>
 
+    <%foreach (Dominio.Articulo item in carrito)
+        {%>
+        <p><% =item.Nombre %></p>
 
+            <%}%>
 </asp:Content>
