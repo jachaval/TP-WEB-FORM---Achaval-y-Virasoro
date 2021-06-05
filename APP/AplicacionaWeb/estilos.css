@@ -4,7 +4,7 @@
 }
 .navbar {
     padding: 0 10px 0 10px;
-   
+    background-color: #07575B;
 }
 .logo {
     padding: 0 10px 0 10px;
@@ -14,12 +14,16 @@
     line-height: 60px;
     text-transform: uppercase;
     text-decoration: none;
-    color: white;
     width: max-content;
     padding: 8px 12px;
     border-radius: 3px;
 }
 .nav-link:hover {
-    background-color: #8EBA43;
+    background-color: #003B46;
     transition: 0.5s;
+}
+
+
+.col {
+    background-color: white;
 }

@@ -9,14 +9,14 @@
         <div class="row">
             <% foreach (Dominio.Articulo item in lista) 
                {%>
-                <div class="col mb-3">
+                <div class="col mb-3 col-md-4 ">
                     <div class="card" style="width: 18rem;">
                         <img src="<% = item.UrlImagen %>" class="card-img-top" alt="...">
                         <div class="card-body">
                             <h5 class="card-title"><% = item.Nombre %></h5>
-                            <p class="card-text"><% = item.Precio %></p>
-                            <%--<a href="Carrito.aspx?id=<% = item.Id %>" class="btn btn-primary">Agregar al Carrito</a>--%>
-                            <a href="Carrito.aspx?id=<% = item.Id %>&e=t"><i class="fas fa-heart"></i></a>
+                            <p class="card-text"><% = item.Precio.ToString("C",new System.Globalization.CultureInfo("en-US")) %></p>
+                            <a href="Carrito.aspx?id=<% = item.Id %>" class="btn btn-primary">Agregar al Carrito</a>
+<%--                            <a href="Carrito.aspx?id=<% = item.Id %>&e=t"><i class="fas fa-heart"></i></a>--%>
                         </div>
                     </div>
                 </div>
