@@ -12,7 +12,7 @@ namespace AplicacionaWeb
 {
     public partial class WebForm1 : System.Web.UI.Page
     {
-            public List<Articulo> favoritos;
+        public List<Articulo> favoritos;
         protected void Page_Load(object sender, EventArgs e)
         {
             favoritos = (List<Articulo>)Session["listaFavoritos"];
@@ -23,7 +23,7 @@ namespace AplicacionaWeb
             {
                 if (Request.QueryString["id"] != null)
                 {
-                    if (favoritos.Find(x => x.Id.ToString() == Request.QueryString["id"]) == null)
+                    //if (favoritos.Find(x => x.Id.ToString() == Request.QueryString["id"]) == null)
                     {
                         List<Articulo> listadoOriginal = (List<Articulo>)Session["listadoProductos"];
                         favoritos.Add(listadoOriginal.Find(x => x.Id.ToString() == Request.QueryString["id"]));
@@ -34,14 +34,9 @@ namespace AplicacionaWeb
                 repetidor.DataSource = favoritos;
                 repetidor.DataBind();
             }
+            decimal total = 0;
 
             Session.Add("listaFavoritos", favoritos);
-
-        }
-
-        protected void Unnamed_Click(object sender, EventArgs e)
-        {
-
         }
 
         protected void btnEliminar_Click(object sender, EventArgs e)
@@ -52,59 +47,14 @@ namespace AplicacionaWeb
         protected void btnEliminar2_Click(object sender, EventArgs e)
         {
             var argument = ((Button)sender).CommandArgument;
-            List<Articulo> favoritos = (List<Articulo>)Session["listadoProductos"];
+            List<Articulo> favoritos = (List<Articulo>)Session["listaFavoritos"];
             Articulo elim = favoritos.Find(x => x.Id.ToString() == argument);
             favoritos.Remove(elim);
-            Session.Add("listadoProductos", favoritos);
+            Session.Add("listaFavoritos", favoritos);
             repetidor.DataSource = null;
             repetidor.DataSource = favoritos;
             repetidor.DataBind();
         }
-
-        protected void txtCantidad_TextChanged(object sender, EventArgs e)
-        {
-            lblEjemplo.Text = "El valor es: " + ((TextBox)sender).Text;
-        }
-
-        protected void ddlCantidad_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            var argument = ((DropDownList)sender);
-            lblDesplegable.Text = "El DDL tiene " + ((DropDownList)sender).Text + " y el ID del POKE es: " + argument;
-        }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
         //    try
         //    {
