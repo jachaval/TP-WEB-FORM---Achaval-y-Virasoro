@@ -93,3 +93,20 @@ C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.Form2.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Presentacion\obj\Debug\Presentacion.pdb

@@ -48,3 +48,12 @@ C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.dll
 C:\Users\USER\Desktop\programacion\TP WEBFORMS\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\bin\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\bin\Debug\Negocio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\bin\Debug\Dominio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\bin\Debug\Dominio.pdb
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.dll
+C:\Users\joa_a\Documents\UTN\3ER CUATRIMESTRE\Programación 3\TP-WEB-FORM---Achaval-y-Virasoro\APP\Negocio\obj\Debug\Negocio.pdb

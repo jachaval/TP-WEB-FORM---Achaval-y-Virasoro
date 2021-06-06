@@ -1,17 +1,14 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Carrito.aspx.cs" Inherits="AplicacionaWeb.WebForm1" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-<h2>Carrito de Compras</h2>
-    
-    <asp:Label Text="Colores" runat="server" />
-    <asp:DropDownList runat="server">
-        <asp:ListItem Text="Rojo" />
-        <asp:ListItem Text="Azul" />
-    </asp:DropDownList>
+    <div class="mx-auto m-5" style="width: 600px;">
+        <h1>Carrito de Compras</h1>
+    </div>
+        
     <table class="table">
         <tr>
-            <td>Nombre</td>
-            <td>Precio</td>
-            <td>Acción</td>
+            <td><b>Nombre</b></td>
+            <td><b>Precio</b></td>
+            <td><b>Acción</b></td>
         </tr>
 
         <asp:Repeater runat="server" ID="repetidor">
@@ -27,14 +24,17 @@
 
             </ItemTemplate>
         </asp:Repeater>
-    </table>
-    <table class ="table">
         <tr>
-            <td>Total</td>
-            <th><% %></th>
+            <td><b>Total</b></td>
+            <td><b>$total</b></td>
+           
         </tr>
-                
     </table>
+
+    <%--<table class ="table">
+        
+                
+    </table>--%>
 
 
 
