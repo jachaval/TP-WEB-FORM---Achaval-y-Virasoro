@@ -4,8 +4,14 @@
     <div class="mx-auto m-5" style="width: 200px;">
         <h1>Productos</h1>
     </div>
-    
-    <div class="container">
+    <div>
+        <form class="form-inline";>
+        <asp:TextBox ID="txtBuscado" placeholder="Articulo" class="form-control mb-2 mr-sm-2" style="width: 200px" runat="server" />
+        <asp:Button Text="Buscar" class="btn btn-primary" style="width: 50px" ID="btnBuscar" OnClick="btnBuscar_Click"/>
+            <%--<a href="#" OnClick="btnbuscarClick" class="btn btn-primary">Buscar</a>--%>
+        </form>
+    </div>
+        <div class="container">
         <div class="row">
             <% foreach (Dominio.Articulo item in lista) 
                {%>
