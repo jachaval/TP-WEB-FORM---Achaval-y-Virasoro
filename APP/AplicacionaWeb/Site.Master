@@ -30,16 +30,17 @@
                     <a class="nav-link active" href="/" style="padding-right: 15px; padding-left: 15px;">Inicio </a>
                     <a class="nav-link" href="Contact">Contacto</a>
                 </div>
-                <div>
-                    <input type="text" class="field" id="searchTextBox" />
-                    <input type="button" class="search-submit" value="Buscar" onclick="search();" />
-                </div>
-                <div>
-                    <a class="nav-link form-control my-2 my-lg-0 " title="Carrito" href="Carrito"> <i class="fas fa-shopping-cart fa-2x" title="Carrito"></i></a>
-                    </div>    
+                <div class="carrito">
+                    <div>
+                        <asp:Label CssClass="CantidadCarrito" Text="text" ID="lblCantidad" runat="server" />
+                    </div>
+                    <div>
+                        <a class="nav-link form-control my-2 my-lg-0 " title="Carrito" href="Carrito"> <i class="fas fa-shopping-cart fa-2x" title="Carrito"></i></a>
+                    </div>
+                </div>    
             </div>
         </nav>
-
+        
         <%--<div class="navbar navbar-inverse navbar-fixed-top">
             <div class="container">
                 <div class="navbar-header">

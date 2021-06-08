@@ -4,6 +4,7 @@
 }
 .navbar {
     padding: 0 10px 0 10px;
+    background-color: #66A5AD;
 }
 .logo {
     padding: 0 10px 0 10px;
@@ -27,13 +28,14 @@
     background-color: white;
 }
 
-.buscador{
+.buscador {
+    display: flex;
     justify-content: right;
     margin-bottom: 50px;
 }
 .btnBuscar {
     align-items:center;
-    display: flex;
+    
     background-color: #4CAF50; /* Green */
     border: none;
     color: white;
@@ -42,4 +44,13 @@
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
+}
+
+.carrito {
+    display: flex;
+    justify-content: space-between;
+}
+
+.CantidadCarrito {
+    background-color: #4CAF50;
 }

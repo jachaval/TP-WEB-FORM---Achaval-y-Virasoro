@@ -29,6 +29,7 @@ namespace AplicacionaWeb
                     Response.Redirect("Error.aspx");
                 }
             }
+          
         }
 
         public void btnBuscar_Click(object sender, EventArgs e)

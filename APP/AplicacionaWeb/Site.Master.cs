@@ -11,6 +11,8 @@ namespace AplicacionaWeb
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            string cant = (string)Session["cantidadArticulos"];
+            lblCantidad.Text = cant;
         }
     }
 }
