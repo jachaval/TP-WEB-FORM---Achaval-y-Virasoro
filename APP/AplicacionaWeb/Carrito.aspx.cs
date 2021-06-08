@@ -13,6 +13,7 @@ namespace AplicacionaWeb
     public partial class WebForm1 : System.Web.UI.Page
     {
         public List<Articulo> favoritos;
+        public static decimal total = 0;
         protected void Page_Load(object sender, EventArgs e)
         {
             favoritos = (List<Articulo>)Session["listaFavoritos"];
@@ -27,14 +28,12 @@ namespace AplicacionaWeb
                     {
                         List<Articulo> listadoOriginal = (List<Articulo>)Session["listadoProductos"];
                         favoritos.Add(listadoOriginal.Find(x => x.Id.ToString() == Request.QueryString["id"]));
+                        total += (listadoOriginal.Find(x => x.Id.ToString() == Request.QueryString["id"])).Precio;
                     }
                 }
-
-                //Repeater
                 repetidor.DataSource = favoritos;
                 repetidor.DataBind();
             }
-            decimal total = 0;
 
             Session.Add("listaFavoritos", favoritos);
         }
@@ -50,6 +49,7 @@ namespace AplicacionaWeb
             List<Articulo> favoritos = (List<Articulo>)Session["listaFavoritos"];
             Articulo elim = favoritos.Find(x => x.Id.ToString() == argument);
             favoritos.Remove(elim);
+            total -= elim.Precio;
             Session.Add("listaFavoritos", favoritos);
             repetidor.DataSource = null;
             repetidor.DataSource = favoritos;

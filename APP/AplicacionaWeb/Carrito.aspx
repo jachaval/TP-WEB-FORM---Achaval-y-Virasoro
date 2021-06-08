@@ -26,7 +26,7 @@
         </asp:Repeater>
         <tr>
             <td><b>Total</b></td>
-            <td><b>$total</b></td>
+           <td></ts> <%= total %> </td>
            
         </tr>
     </table>

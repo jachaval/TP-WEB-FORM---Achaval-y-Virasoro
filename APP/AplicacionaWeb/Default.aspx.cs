@@ -20,7 +20,7 @@ namespace AplicacionaWeb
             if (!IsPostBack)
             {
                 try
-                {
+                {	
                     lista = negocio.listar();
                     Session.Add("listadoProductos", lista);
                 }
@@ -30,28 +30,30 @@ namespace AplicacionaWeb
                 }
             }
         }
+
         public void btnBuscar_Click(object sender, EventArgs e)
         {
-            Response.Write("<script>alert('ja no filtra')</script>");
             ArticuloNegocio negocio = new ArticuloNegocio();
-            lista = negocio.listar();
-            string buscado = txtBuscado.Text.ToUpper();
-            if (txtBuscado.Text != "")
-            {
-                    lista = lista.FindAll(
-                    X => (
-                        X.Nombre.ToUpper().Contains(buscado) ||
-                        X.CodigoArticulo.Contains(buscado) ||
-                        X.Precio.ToUpper().Contains(buscado)));
-                    lista = negocio.listar();
-                Response.Write("<script>alert('ja no filtra')</script>");
-            }
-            else
-            {
-                lista = negocio.listar();
-            }
+            string argument = ((Button)sender).CommandArgument.ToUpper();
+            listaFiltrada = lista.FindAll(x => x.Nombre.ToUpper() == argument);
+            listaFiltrada = negocio.listar();
 
 
+            //ArticuloNegocio negocio = new ArticuloNegocio();
+            //lista = negocio.listar();
+            //string buscado = txtBuscado.Text.ToUpper();
+            //if (txtBuscado.Text != "")
+            //{
+            //        lista = lista.FindAll(
+            //        X => (
+            //            X.Nombre.ToUpper().Contains(buscado) ||
+            //            X.CodigoArticulo.Contains(buscado)));
+            //        lista = negocio.listar();
+            //}
+            //else
+            //{
+            //    lista = negocio.listar();
+            //}
         }
         //private void txtFiltro_TextChanged(object sender, EventArgs e)
         //{

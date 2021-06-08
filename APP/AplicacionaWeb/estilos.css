@@ -26,3 +26,20 @@
 .col {
     background-color: white;
 }
+
+.buscador{
+    justify-content: right;
+    margin-bottom: 50px;
+}
+.btnBuscar {
+    align-items:center;
+    display: flex;
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
