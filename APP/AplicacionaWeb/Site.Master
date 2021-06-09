@@ -32,7 +32,7 @@
                 </div>
                 <div class="carrito">
                     <div>
-                        <asp:Label CssClass="CantidadCarrito" Text="text" ID="lblCantidad" runat="server" Style="font-weight: bold;" />
+                        <asp:Label class="CantidadCarrito" Text="text" ID="lblCantidad" runat="server" />
                     </div>
                     <div>
                         <a class="nav-link form-control my-2 my-lg-0 " title="Carrito" href="Carrito"> <i class="fas fa-shopping-cart fa-2x" title="Carrito"></i></a>

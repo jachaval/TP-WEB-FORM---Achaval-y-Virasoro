@@ -13,6 +13,11 @@ namespace AplicacionaWeb
         {
             string cant = (string)Session["cantidadArticulos"];
             lblCantidad.Text = cant;
+            if(cant == "")
+            {
+                cant = "0";
+                lblCantidad.Text = cant; 
+            }
         }
     }
 }
