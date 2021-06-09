@@ -26,7 +26,7 @@
         </asp:Repeater>
         <tr>
             <td><b>Total</b></td>
-           <td><b><%= total %> </b> </td>
+           <td><b><%= total.ToString("C",new System.Globalization.CultureInfo("en-US")) %> </b> </td>
            
         </tr>
     </table>
