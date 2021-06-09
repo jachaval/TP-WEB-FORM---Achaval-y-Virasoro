@@ -26,6 +26,8 @@ namespace AplicacionaWeb
                 }
                 catch (Exception ex)
                 {
+                    Session.Add("Exception", ex.ToString());
+
                     Response.Redirect("Error.aspx");
                 }
             }
